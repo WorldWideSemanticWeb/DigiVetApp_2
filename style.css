@@ -1,0 +1,147 @@
+h1, h2, h3 {
+	font-family: arial;
+}
+
+p {
+	font-family: arial;
+    font-size: 160%;
+}
+
+.small{
+	font-family: arial;
+    font-size: 100%;
+}
+
+#question{
+	border: 2%;
+	border-color: red; 
+}
+
+#choice{
+	float: bottom;
+} 
+
+#yellow{
+	width: 40%;
+	height: 40em; /* make responsive */ 
+	background-color: yellow; 
+	float: left; 
+} 	
+
+#blue{
+	width: 40%;
+	height: 40em;  
+	background-color: blue; 
+	float: left; 
+} 	
+
+#cow{
+    width: 20%;
+    height: 20em;
+    background-image: url(images/cow.jpg);
+	background-size: 25em 20em;
+    background-color: transparent;
+    background-repeat: no-repeat;
+}
+
+#goat{
+    width: 20%;
+    height: 20em;
+    background-image: url(images/goat.jpg);
+	background-size: 25em 20em;
+    background-color: transparent;
+    background-repeat: no-repeat;
+}
+
+#sheep{
+    width: 20%;
+    height: 20em;
+    background-image: url(images/sheep.jpg);
+	background-size: 25em 20em;
+    background-color: transparent;    
+    background-repeat: no-repeat;
+}
+
+#pig{
+    width: 20%;
+    height: 20em;
+    background-image: url(images/pig.jpg);
+	background-size: 25em 20em;
+    background-color: transparent;
+    background-repeat: no-repeat;
+}
+
+#dog{
+    width: 20%;
+    height: 20em;
+    background-image: url(images/dog.jpg);
+	background-size: 25em 20em;
+    background-color: transparent;    
+    background-repeat: no-repeat;
+}
+
+
+.play{
+    width: 5%;
+    height: 5em;
+    background-color: transparent;
+    border: none;
+    background-image: url(images/play.png);
+	background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.pause{
+    width: 5%;
+    height: 5em;
+    background-color: transparent;
+    border: none;
+    background-image: url(images/pause.png);
+	background-size: contain;
+    background-repeat: no-repeat;
+}
+     
+#vet_yellow{
+	width: 20%;
+	height: 20em; /* make responsive */ 
+	background-color: yellow; 
+	float: left; 
+} 	
+
+#vet_blue{
+	width: 20%;
+	height: 20em;  
+	background-color: blue; 
+	float: left; 
+} 	
+
+#shutdown {
+	background-color: black; 
+} 
+
+#subject1 {
+    width: 20%;
+    height: 20em;
+    /*background-image: url(images/goat.jpg); */ 
+	background-size: 25em 20em;
+    background-color: transparent;
+    background-repeat: no-repeat;
+}
+
+#subject2 {
+    width: 20%;
+    height: 20em;
+    /*background-image: url(images/goat.jpg); */ 
+	background-size: 25em 20em;
+    background-color: transparent;
+    background-repeat: no-repeat;
+}
+
+#subject3 {
+    width: 20%;
+    height: 20em;
+    /*background-image: url(images/goat.jpg); */ 
+	background-size: 25em 20em;
+    background-color: transparent;
+    background-repeat: no-repeat;
+}
